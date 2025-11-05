@@ -1,0 +1,299 @@
+[
+  {
+    "paper_id": "2511.02606",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper explicitly presents a multi-agent system where psychological agents deliberate and interact in an 'inner parliament' to model human behavior, directly aligning with the coordination and interaction focus of multi-agent systems and collective intelligence."
+  },
+  {
+    "paper_id": "2511.02687",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on evaluating collaboration between heterogeneous agents under partial observability in a benchmark setting, which directly aligns with coordination, communication, and emergent behaviors in multi-agent systems."
+  },
+  {
+    "paper_id": "2511.02734",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on evaluating cost-optimal planning and real-time adaptation in LLM-based tool-use agents, which directly aligns with planner-controller loops, tool schemas, and execution monitoring in dynamic environments as defined in the category."
+  },
+  {
+    "paper_id": "2511.02834",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces a master-agent system that orchestrates modality-specific agents for multimodal reasoning, involving planning, delegation, and integration of outputs, which aligns with agent orchestration and multi-agent coordination."
+  },
+  {
+    "paper_id": "2511.02823",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper focuses on decomposing and optimizing attack policies involving plan synthesis, execution, and subtlety, which aligns with agent architecture design for planning and control loops in complex environments."
+  },
+  {
+    "paper_id": "2511.02627",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper introduces a benchmark dataset for probing compositional reasoning in Large Language Models (LLMs), directly evaluating their capabilities as foundation models through systematic testing of productivity, systematicity, and other aspects."
+  },
+  {
+    "paper_id": "2511.02818",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper introduces a Transformer-based architecture for tabular in-context learning, addressing scalability and efficiency through sparse attention and memory mechanisms, which aligns with core foundation model research on adaptable backbones for diverse domains."
+  },
+  {
+    "paper_id": "2511.02824",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence",
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper describes Kosmos as a system with multiple agents (data analysis and literature search) coordinating via a structured world model, which aligns with multi-agent coordination and memory architectures for knowledge sharing and evolution."
+  },
+  {
+    "paper_id": "2511.02825",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on neurosymbolic semantics for deep learning, a general AI methodology that does not align with the specific categories related to agents, trading, or foundation models."
+  },
+  {
+    "paper_id": "2511.02794",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence",
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper treats each modality as an agent to audit fusion dynamics and resolve conflicts, aligning with multi-agent systems, and it builds on multimodal LLMs as foundation models for reasoning."
+  },
+  {
+    "paper_id": "2511.02589",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on benchmarking LLMs for quantitative reasoning across domains, which does not materially align with categories defined for model development, agent systems, or financial applications, as it is primarily an evaluation study rather than contributing to methodology or system design in those areas."
+  },
+  {
+    "paper_id": "2511.02534",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on constructing and maintaining a Knowledge Graph for knowledge accumulation and reuse, and uses LLMs for multi-hop reasoning, which directly aligns with the key indicators of memory architectures and retrieval-augmented generation in Agent Memory & Knowledge Systems."
+  },
+  {
+    "paper_id": "2511.02759",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper describes an LLM-supported method for creating formal knowledge representations in control engineering, which is an application-focused approach that does not align with the core methodologies of categories like Foundation Models or Agent Memory systems, as it lacks emphasis on model scaling, agent architectures, or financial domains."
+  },
+  {
+    "paper_id": "2511.02532",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper focuses on Agentic AI design patterns including planning, tool use, and multi-agent collaboration for autonomous decision-making in RAN optimization, directly aligning with the key indicators for these categories."
+  },
+  {
+    "paper_id": "2511.02414",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on methodological advances in evaluation metrics for generative models, specifically Precision and Recall curves, which does not align with the defined categories that emphasize model architectures, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.02392",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on a fuzzy soft set-based expert system for medical risk assessment, which does not align with the predefined categories that are oriented towards foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.02424",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces a hierarchical LLM agent tree with control flow nodes for planning and execution, directly aligning with agent architecture, and integrates episodic and working memory systems for knowledge retrieval and sharing, fitting agent memory and knowledge systems."
+  },
+  {
+    "paper_id": "2511.02208",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces a multi-objective RL approach to train single LLM agents for planning, asking strategic questions, and adapting to user preferences, which aligns with agent architecture and tool-use orchestration indicators like planning loops and execution monitoring."
+  },
+  {
+    "paper_id": "2511.02303",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on multi-agent collaboration in LLM-based reasoning systems, addressing coordination issues like lazy agent behavior and proposing mechanisms to enhance collective intelligence through verifiable rewards and causal influence measurement."
+  },
+  {
+    "paper_id": "2511.02749",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper introduces span queries to optimize KV cache and attention locality for workloads like RAG and agentic tasks, directly aligning with RAG pipelines and evidence-grounded reasoning in agent memory systems."
+  },
+  {
+    "paper_id": "2511.02219",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.85,
+    "rationale": "The framework involves query decomposition, table sanitization, and program-of-thoughts reasoning, which directly corresponds to planning/execution loops and tool-use orchestration in agent systems."
+  },
+  {
+    "paper_id": "2511.02463",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on enhancing large language models (LLMs) through reinforcement learning-based training for open-ended tasks, aligning with adapting foundation models for diverse downstream applications as indicated by the use of LLMs and verifiable reward strategies."
+  },
+  {
+    "paper_id": "2511.02605",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on runtime shielding and specification repair for RL agents, involving execution monitoring, error recovery, and guardrails to ensure compliance with liveness and safety properties."
+  },
+  {
+    "paper_id": "2511.02109",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on evaluating alignment and value generalization in large language models (LLMs), which directly relates to research on foundation models, particularly in areas of alignment and safety for general-purpose use."
+  },
+  {
+    "paper_id": "2511.02238",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Foundation Models"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper designs an LLM agent with an explore-expand-evolve workflow and a critic engine for orchestration, and relies on foundation models for generating research ideas."
+  },
+  {
+    "paper_id": "2511.02340",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on a domain-specific healthcare application using transformers for prognosis prediction and does not involve large-scale domain-general models, agent systems, or financial methodologies, lacking material alignment with the defined categories."
+  },
+  {
+    "paper_id": "2511.02119",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper designs InsurAgent with modules for perception, retrieval, reasoning, action, and memory, demonstrating agent architecture and orchestration, and explicitly uses RAG and temporal memory for knowledge grounding and evolution."
+  },
+  {
+    "paper_id": "2511.02815",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper applies standard machine learning models to sports win prediction and betting analysis, which does not materially align with the defined categories focused on foundation models, agent systems, or financial quantitative methods."
+  },
+  {
+    "paper_id": "2511.02802",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper centers on tabular foundation models, emphasizing pretraining, fine-tuning (e.g., SFT, PEFT), and standardized workflows for adaptable backbones, which directly aligns with the Foundation Models category."
+  },
+  {
+    "paper_id": "2511.02071",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper introduces an agentic AI system that performs adaptive planning, real-time feedback, and memory-based reasoning for physical execution, aligning with agent architecture and knowledge systems as it involves planner-controller loops and contextual memory for guidance."
+  },
+  {
+    "paper_id": "2511.02805",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems",
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper centers on iterative memory management and an end-to-end RL framework for optimizing reasoning, search actions, and memory updates in agents, as shown by the compact memory design and joint training of MemSearcher."
+  },
+  {
+    "paper_id": "2511.02130",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces Re-FORC for adaptive reward prediction to control chain-of-thought reasoning, enabling early stopping and compute optimization, which aligns with key indicators like planning/execution loops and latency/cost control in agent runtime."
+  }
+]
