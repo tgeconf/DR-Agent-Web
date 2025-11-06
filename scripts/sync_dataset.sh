@@ -29,7 +29,7 @@ popd > /dev/null
 
 cd "${REPO_ROOT}"
 if [[ -n "$(git status --porcelain)" ]]; then
-  git add dataset web
+  git add .
   git commit -m "chore: sync dataset export"
   git push
 else
