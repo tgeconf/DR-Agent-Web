@@ -1,0 +1,2159 @@
+[
+  {
+    "paper_id": "2511.03545",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on theoretical parameterized complexity analysis of explainable AI for transparent ML models like Decision Trees, which does not align with the defined categories centered on agents, trading systems, or foundation models."
+  },
+  {
+    "paper_id": "2511.03106",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on monitoring large language models (LLMs) for capabilities like reasoning and safety, which directly aligns with foundation models research on alignment and safety for general-purpose use."
+  },
+  {
+    "paper_id": "2511.03169",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on validating formal explainable AI implementations, which does not align with the predefined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03070",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper directly benchmarks Large Language Models (LLMs) for their ability to internalize real-world probabilistic distributions, aligning with the Foundation Models category's focus on evaluating LLM capabilities and knowledge representation."
+  },
+  {
+    "paper_id": "2511.03138",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models",
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper centers on safety alignment for LLMs through supervised fine-tuning and retrieval-augmented generation (RAG), which are core to Foundation Models and knowledge systems for evidence-grounded reasoning."
+  },
+  {
+    "paper_id": "2511.03724",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on multi-player dynamics, self-play reinforcement learning, and competition in Liar's Poker, directly aligning with multi-agent interaction and coordination indicators."
+  },
+  {
+    "paper_id": "2511.03235",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on using Large Language Models (LLMs) for zero-shot psychological trait modeling and analyzes their reasoning processes, which aligns with research on foundation models as adaptable backbones for diverse downstream tasks."
+  },
+  {
+    "paper_id": "2511.03092",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on system-level optimization for LLM inference through KV cache compression on hardware accelerators, which does not materially align with the agent or finance-specific categories provided."
+  },
+  {
+    "paper_id": "2511.02997",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper evaluates control protocols for monitoring and intervening in agent actions, such as deferral and resampling, which directly relates to runtime control and guardrails in agent architecture; additionally, the adversarial evaluation with blue and red teams involves multi-agent interactions and adaptive strategies."
+  },
+  {
+    "paper_id": "2511.03023",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper presents a multi-agent framework with specialized agents for intent clarification, dataset discovery, analysis, and reporting, and derives design principles for coordination, role specialization, and failure mitigation in multi-agent systems."
+  },
+  {
+    "paper_id": "2511.03685",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on multi-class calibration techniques for classifiers, a general machine learning methodology that does not align with the defined categories centered on agents, trading, or foundation models."
+  },
+  {
+    "paper_id": "2511.03186",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper focuses on a domain-specific AI assistant that uses retrieval grounding (RAG) for knowledge access, which is a key indicator of this category."
+  },
+  {
+    "paper_id": "2511.03179",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence",
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper presents a multi-agent framework with specialized roles collaborating in iterative design and review loops, and employs LLM-generated knowledge graphs for structured knowledge representation and retrieval."
+  },
+  {
+    "paper_id": "2511.03051",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces a multi-agent framework for consensus-driven evaluation using scalable majority voting, which directly aligns with coordination and collective intelligence in multi-agent systems."
+  },
+  {
+    "paper_id": "2511.03697",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence",
+      "Foundation Models",
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper presents a multi-agent workflow with LLM-based agents collaborating on circuit sizing and learning from optimization history, aligning with multi-agent systems, foundation models, and agent memory components."
+  },
+  {
+    "paper_id": "2511.03108",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper's core contribution is benchmark analysis and correction for autoformalization and theorem proving in formal reasoning, which does not materially align with categories focused on agent systems, foundation models, or financial applications."
+  },
+  {
+    "paper_id": "2511.03690",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces an SDK for building software agents with features such as custom tools, lifecycle control, and execution portability, directly aligning with the design and runtime control of single agents in tool-use orchestration."
+  },
+  {
+    "paper_id": "2511.03718",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on developing a perspectivist annotation scheme for analyzing misunderstandings in human dialogue and uses LLMs for annotation, which is methodological in computational linguistics and does not align with the defined categories centered on agent systems, foundation models research, or financial applications."
+  },
+  {
+    "paper_id": "2511.03137",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper focuses on using multi-modal large language models to enhance the fireworks algorithm for optimization tasks like TSP and EDA, which is an application of AI methodology that does not align with the core definitions of categories such as foundation models (focused on model development) or agent systems."
+  },
+  {
+    "paper_id": "2511.03641",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.7,
+    "rationale": "The paper focuses on watermarking techniques for Large Language Models (LLMs), which are a core type of foundation model, and evaluates their robustness and alignment with safety requirements under the EU AI Act."
+  },
+  {
+    "paper_id": "2511.03471",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper presents a human-AI partnership framework for web accessibility auditing, with core innovations in graph-based sampling and MLLM-assisted tasks, which are application-focused and do not strongly align with the methodology-oriented categories like Foundation Models or Agent Architecture."
+  },
+  {
+    "paper_id": "2511.03617",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper evaluates how visualizations bias Multimodal Large Language Models (MLLMs) in decision-making tasks, directly addressing alignment and safety concerns for general-purpose foundation models."
+  },
+  {
+    "paper_id": "2511.03656",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper's core contribution is the creation and evaluation of a Chinese document QA dataset, which does not align with the methodology-focused categories such as model development, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03670",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper's emphasis on prioritized experience replay and its impact on convergence and returns directly aligns with memory architectures and experience replay systems for agents, as defined in the category."
+  },
+  {
+    "paper_id": "2511.03628",
+    "category": "Quantitative Trading Systems",
+    "categories": [
+      "Quantitative Trading Systems",
+      "Portfolio Management"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces LiveTradeBench as a live trading environment for evaluating LLM agents, emphasizing real-time data streaming and portfolio allocation with risk management, which directly aligns with quantitative trading systems and portfolio management methodologies."
+  },
+  {
+    "paper_id": "2511.03675",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on security vulnerabilities (side-channel attacks) in LLMs, which does not align with the methodology or system design emphasis of categories like Foundation Models or Agent Architectures, as it centers on exploitation rather than model development or agent systems."
+  },
+  {
+    "paper_id": "2511.03578",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper introduces a constraint-projected neural PDE solver for enforcing physical laws in scientific computing, with no alignment to categories like foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03601",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces an LLM-based audio model for expressive editing and TTS, aligning with foundation models through its use of large-scale pretraining and adaptation to audio modalities."
+  },
+  {
+    "paper_id": "2511.03565",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper is a survey on imitation learning methodologies in deep learning, which does not materially align with the defined categories focused on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03531",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on neural network architecture efficiency, interpretability, and pruning using DCT activations, which does not align with the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03643",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on cognitive modeling of human choice probabilities in stochastic tasks using vector representations, which does not align with the predefined categories centered on AI agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.03499",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper applies clustering, metric learning, and temporal link prediction to ecological risk assessment for marine invasive species, which does not align with the finance or agent-focused categories."
+  },
+  {
+    "paper_id": "2511.03576",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper focuses on resolving conflicts among multiple users through coordination and negotiation using argumentation frameworks, which aligns with multi-agent system principles."
+  },
+  {
+    "paper_id": "2511.03481",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on robotic hand design, proprioceptive control, and mechanical performance, which does not align with the defined categories centered on AI agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.03434",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on comparative analysis of trust models for inter-agent protocols, which directly involves coordination, communication, and robustness in multi-agent systems, as indicated by the examination of mechanisms like reputation, stake, and proof in protocols such as A2A and ERC-8004."
+  },
+  {
+    "paper_id": "2511.03542",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper presents a multi-agent architecture with a Router Agent for dynamic specialist selection and an Orchestrator Agent for response synthesis, directly aligning with coordination and interaction in multi-agent systems."
+  },
+  {
+    "paper_id": "2511.03421",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper presents a lightweight linguistic method for automating performance requirements quantification in software engineering, which contrasts with LLM-driven approaches and does not materially align with any defined categories focused on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03441",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces a dataset for evaluating large language models (LLMs) on biomedical reasoning tasks, directly aligning with research on foundation models' capabilities and limitations in specialized domains."
+  },
+  {
+    "paper_id": "2511.03367",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper centers on prompt learning for large-scale vision-language models, which are foundation models, and introduces adversarial token embeddings to improve generalization, aligning with adaptation techniques for domain-general knowledge."
+  },
+  {
+    "paper_id": "2511.03586",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on automated performance optimization and code generation for ML libraries using LLMs and RL, which does not materially align with the defined categories such as foundation models or agent architectures, as per the reviewer's feedback."
+  },
+  {
+    "paper_id": "2511.03376",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper uses pre-trained large language models (GPT 4o and GPT 5) in a zero-shot manner for reasoning and phenotype interpretation, aligning with the core definition of Foundation Models as adaptable backbones for diverse downstream tasks."
+  },
+  {
+    "paper_id": "2511.03559",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on small-scale transformer architecture for interpretability through a tunable locality parameter, which does not align with Foundation Models (due to lack of large-scale training or general-purpose use) or any other categories related to agents, memory, or financial systems."
+  },
+  {
+    "paper_id": "2511.03405",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces Adaptable Hindsight Experience Replay (HER) for relabeling and reusing past trajectories in search-based learning, which directly aligns with experience replay and knowledge evolution techniques in agent memory systems."
+  },
+  {
+    "paper_id": "2511.03304",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper presents a methodological contribution in fairness for kernel-based regression with continuous attributes, which does not materially align with any defined categories like foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03330",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on information retrieval and recommendation systems using summarization and contrastive learning, which does not align with the defined categories centered on AI agents or financial systems."
+  },
+  {
+    "paper_id": "2511.03361",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on developing a specialized automatic speech recognition system for Romanian using a Transformer-based architecture, which does not align with categories like foundation models (as it is not domain-general) or agent and financial systems."
+  },
+  {
+    "paper_id": "2511.03282",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "This paper is a systematic review focusing on applications of generative AI in extended reality (XR), which does not align with the methodology or system design focus of the defined categories such as foundation models or agent systems."
+  },
+  {
+    "paper_id": "2511.03295",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on evaluation methodologies for speech translation, such as source-aware neural metrics and cross-lingual re-segmentation, which do not align with the defined categories like foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03328",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on benchmarking the reasoning modes of Multimodal Large Language Models (MLLMs), which are a type of foundation model, and evaluates their performance and reliability in clinical tasks."
+  },
+  {
+    "paper_id": "2511.03255",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on generative deep learning for medical video translation in ultrasound, which does not align with the defined categories such as foundation models, agent systems, or financial topics, as it is a domain-specific computer vision application."
+  },
+  {
+    "paper_id": "2511.03497",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces an MCP server for tool-based analysis of robot data with LLMs, emphasizing tool schemas, function calling, and benchmarking of tool orchestration for agentic systems, which aligns directly with agent architecture and tool-use orchestration."
+  },
+  {
+    "paper_id": "2511.03206",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on improving Multimodal Large Language Models (MLLMs) through a zero-shot prompting method for multi-image reasoning, aligning with research on foundation models by enhancing their adaptability and performance on diverse tasks."
+  },
+  {
+    "paper_id": "2511.03214",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on enhancing LLMs with iterative retrieval of conceptual meta-relations and validation mechanisms, directly aligning with RAG pipelines and knowledge evolution systems for improved evidence-grounded reasoning."
+  },
+  {
+    "paper_id": "2511.03217",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper designs a hybrid system with autonomous steps for tool orchestration (KG retrieval, LLM classification, web search agent) and incorporates knowledge graphs and retrieval for evidence grounding, matching key indicators of agent architecture and memory systems."
+  },
+  {
+    "paper_id": "2511.03251",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper proposes GMoPE, a framework for graph foundation models that leverages pretraining strategies and prompt-based fine-tuning to improve generalization and efficiency, aligning with the Foundation Models category's focus on adaptable backbones for diverse tasks."
+  },
+  {
+    "paper_id": "2511.03211",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on legal strategies, societal accountability, and public interest litigation for AI governance, with no emphasis on technical AI methodologies, models, or systems covered by the defined categories."
+  },
+  {
+    "paper_id": "2511.03261",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on RAG-based question-answering, which directly aligns with the Agent Memory & Knowledge Systems category through its use of RAG pipelines for knowledge retrieval and evidence-grounded reasoning in LLMs."
+  },
+  {
+    "paper_id": "2511.03549",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.0,
+    "rationale": "Fallback classification after repeated reviewer disagreement. Latest reviewer feedback: The paper focuses on a software engineering tool using RAG for code understanding, but the 'Agent Memory & Knowledge Systems' category is specifically for agent-centric knowledge management (e.g., for long-horizon tasks). Since the paper does not emphasize agents, consider 'Others' or ensure alignment with agent contexts if applicable."
+  },
+  {
+    "paper_id": "2511.03553",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on creating a multilingual benchmark for evaluating logical reasoning in LLMs, which does not align with the defined categories centered on model development, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03354",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper is a systematic review of generative AI applications in bioinformatics, focusing on domain-specific methodological advances and applications such as molecular design and data integration, which does not align with the core methodologies of the defined categories like Foundation Models or agent systems."
+  },
+  {
+    "paper_id": "2511.03170",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on graph neural networks for molecular activity prediction in computational chemistry, which does not align with the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03190",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper proposes a novel linear attention mechanism for efficient time series modeling, which is a general machine learning methodology not directly aligned with the defined categories focused on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03201",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on model quantization techniques for efficient deep learning in IoT security, which does not align with the defined categories centered on agents, financial systems, or foundation models."
+  },
+  {
+    "paper_id": "2511.03153",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence",
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper presents a multi-agent framework with specialized agents coordinating refactoring tasks, aligning with multi-agent systems, and employs tool-calling and self-reflection for agent orchestration, matching agent architecture design."
+  },
+  {
+    "paper_id": "2511.03122",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on a hybrid diffusion-transformer architecture for inverse design of materials (metal-organic frameworks), which is a specialized application in materials science and does not align with the predefined categories such as foundation models, agent systems, or financial domains."
+  },
+  {
+    "paper_id": "2511.03114",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on theoretical analysis of self-supervised contrastive learning mechanisms, which does not align with categories like foundation models or agent systems, as it lacks key indicators such as large-scale models, tool-use, or financial applications."
+  },
+  {
+    "paper_id": "2511.03149",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper centers on adapting Time Series Foundation Models (TSFMs) for anomaly prediction via fine-tuning and a Retrieval-Augmented Generation module, directly matching the Foundation Models category's focus on pretrained models and generalization."
+  },
+  {
+    "paper_id": "2511.03129",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper centers on mathematical optimization and control of diffusion on graphs via linear programming, with applications to physical networks like stadiums and street systems, which does not materially align with the AI or finance-focused categories in the taxonomy."
+  },
+  {
+    "paper_id": "2511.03120",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on self-supervised learning for defect detection in integrated circuit manufacturing, which does not align with the defined categories such as foundation models, agent systems, or financial applications, as it is centered on computer vision techniques for a specific industrial domain."
+  },
+  {
+    "paper_id": "2511.03152",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper uses LLMs as judges for risk assessment and focuses on transparency and alignment in evaluations, which aligns with Foundation Models research on safe and interpretable use of large-scale models."
+  },
+  {
+    "paper_id": "2511.03143",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper focuses on training empathetic expert adapters for large language models to enable context-specific empathy, aligning with fine-tuning and specialization techniques for foundation models in downstream conversational tasks."
+  },
+  {
+    "paper_id": "2511.03102",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on dataset creation and NLP classification for mental health detection in Arabic, which does not align with the defined categories centered on methodology like foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03103",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on adaptive machine learning for software reliability and aging detection under workload shifts, which does not align with the predefined categories centered on AI agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.03113",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on machine learning for computational antibody design using physics-informed generative models, which does not align with the defined categories centered on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03121",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper proposes a control barrier function framework for aligning large language models to ensure safe text generation, which directly addresses alignment and safety for general-purpose foundation models."
+  },
+  {
+    "paper_id": "2511.03056",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper studies the use of large language models (LLMs) with prompting and finetuning techniques for reconstructing missing dialogue turns and generating summaries, which directly aligns with foundation model applications in conversational AI."
+  },
+  {
+    "paper_id": "2511.03100",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper centers on multi-agent environment co-design, explicitly addressing coordination and optimization in multi-agent systems through benchmarks like warehouse automation and multi-agent pathfinding."
+  },
+  {
+    "paper_id": "2511.03095",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper presents a general anomaly detection method using sparse ensembles of local kernels, with applications in scientific discovery and intrusion detection, but it does not materially align with the defined categories focused on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03227",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper's core contribution is a node-based editing system for multimodal storytelling, emphasizing HCI and creative AI tools, which does not align with the defined categories focused on agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.03019",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper introduces SLIP, a vision-language pretraining method that scales up training with structural graph supervision, directly aligning with foundation model research through its focus on large-scale multimodal models for cross-modal retrieval and classification tasks."
+  },
+  {
+    "paper_id": "2511.03022",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper presents a residual correction method for sensorless monitoring in shipping containers, which is an applied machine learning approach not covered by categories like foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03132",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on deploying computer vision models for disaster response, which does not align with the methodology-oriented categories such as foundation models, agent architectures, or financial systems."
+  },
+  {
+    "paper_id": "2511.02938",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on applying a small-scale Transformer auto-encoder for ultrasound signal processing to recover bandwidth, which does not align with the defined categories centered on AI agents, trading systems, or large-scale foundation models."
+  },
+  {
+    "paper_id": "2511.02953",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper introduces a dataset for event-based depth estimation in computer vision and robotics, with no alignment to categories focused on AI agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.02969",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on reinforcement learning exploration algorithms, specifically enhancing Bootstrapped DQN with value of information for sparse-reward environments, which does not align with the defined categories such as foundation models, agent tool-use, or financial systems."
+  },
+  {
+    "paper_id": "2511.02897",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper evaluates bitstring implementations for genetic programming performance, which is unrelated to the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.02944",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on nonstationary bandit algorithms for decision-making in health interventions, which does not align with the methodology or system design of categories like foundation models, agent architectures, or financial systems."
+  },
+  {
+    "paper_id": "2511.03173",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on space trajectory optimization and navigation using AI techniques, which does not materially align with the defined categories centered on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.02933",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on a computer vision training methodology using generative models and semi-supervised learning for invariance properties, which does not align with the defined categories such as foundation models, agent systems, or financial topics."
+  },
+  {
+    "paper_id": "2511.02888",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on benchmarking and evaluating nucleotide foundation models for fitness prediction, assessing their performance in zero-shot, few-shot, and transfer learning settings, which aligns with research on large-scale models and their adaptation to downstream tasks."
+  },
+  {
+    "paper_id": "2511.02879",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on deep graph clustering for dynamic group formation in recommender systems, which centers on machine learning methodology and does not align with the defined categories such as foundation models, agent systems, or financial topics."
+  },
+  {
+    "paper_id": "2511.02936",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper applies a large-scale transformer-based LLM (Llama 3.1-405B) for zero-shot data citation classification, directly leveraging foundation models as adaptable backbones for a downstream task without fine-tuning."
+  },
+  {
+    "paper_id": "2511.02886",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper focuses on fine-tuning a small-scale recursive model for a specific AI challenge (ARC), which does not align with categories like Foundation Models (due to tiny scale and lack of domain-general focus) or agent-related systems (no evidence of planning, tool use, or multi-agent coordination)."
+  },
+  {
+    "paper_id": "2511.02880",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on medical signal processing for ECG synthesis, involving model architecture and calibration for view transformation, which does not align with the predefined categories such as foundation models, agent systems, or financial topics."
+  },
+  {
+    "paper_id": "2511.02887",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper applies deep learning to predict fishing zones using environmental data, which is an application-focused methodology not aligning with the defined categories such as foundation models, agent systems, or financial domains."
+  },
+  {
+    "paper_id": "2511.02895",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper focuses on risks and emergent behaviors in multi-agent AI systems, proposing a taxonomy for criminal outcomes from agent interactions and questioning the applicability of human crime theories to machine-machine interactions."
+  },
+  {
+    "paper_id": "2511.02877",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on a reservoir computing methodology for chaotic time series prediction, which does not align with the defined categories such as foundation models, agent systems, or financial applications, as it is a general machine learning approach without specific ties to agents, trading, or risk management."
+  },
+  {
+    "paper_id": "2511.02875",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on societal and policy aspects of generative AI adoption in academia, such as measuring policy-practice gaps and developing audit instruments, which does not align with the technical categories like foundation models or agent systems."
+  },
+  {
+    "paper_id": "2511.02869",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on Parameter Efficient Fine-Tuning (PEFT) methods like AdvFusion for Code Large Language Models (Code-LLMs), which involves adapting pre-trained foundation models for downstream software engineering tasks such as code generation and translation."
+  },
+  {
+    "paper_id": "2511.02868",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.7,
+    "rationale": "The paper proposes a neuromorphic consensus protocol for blockchains that involves competitive firing dynamics and neural synchronization among nodes, aligning with multi-agent coordination and collective intelligence mechanisms."
+  },
+  {
+    "paper_id": "2511.02853",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper applies a transformer model to ECG signal processing for medical conscious state estimation, which does not align with the predefined categories focused on AI agents, financial systems, or foundation models."
+  },
+  {
+    "paper_id": "2511.02885",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper's core contribution is defining service level agreements and quality models for AI agents, which focuses on software engineering and quality assurance aspects rather than advancing methodologies in agent architecture, foundation models, or other defined categories."
+  },
+  {
+    "paper_id": "2511.02864",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper describes AlphaEvolve as an agent that orchestrates LLMs, automated evaluation, and proof-assistants in an iterative planning-execution loop to propose, test, and refine mathematical solutions."
+  },
+  {
+    "paper_id": "2511.02860",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on applying a deep learning segmentation model (Mask2Former) to biological electron microscopy data for organelle analysis in spermatogenesis, which does not align with the defined categories such as foundation models, agent systems, or financial topics, as it is primarily methodological in biological physics."
+  },
+  {
+    "paper_id": "2511.02872",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces a benchmark for evaluating LLMs in formal theorem proving, which does not align with the defined categories focused on model development, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.02866",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper centers on software engineering for fault detection and recovery in LLMs, such as bit-flip detection and rapid repair, which does not materially align with the defined categories like Foundation Models that focus on model training or scaling."
+  },
+  {
+    "paper_id": "2511.02846",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper presents a deep learning framework for EEG-based seizure prediction using spatio-temporal attention and adversarial training, which is focused on medical signal processing and does not align with the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.02851",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on medical AI for cardiac monitoring using semi-supervised knowledge distillation and ECG data, which does not align with categories like foundation models, agent systems, or financial applications, as it centers on domain-specific model efficiency rather than general methodologies in the defined areas."
+  },
+  {
+    "paper_id": "2511.02848",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on EEG signal reconstruction using lightweight generative models for neurophysiological applications, which does not materially align with the defined categories such as foundation models, agent systems, or financial domains."
+  },
+  {
+    "paper_id": "2511.02845",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on AI-enhanced Wi-Fi sensing for applications like human pose estimation and localization, which does not align with the defined categories such as foundation models, agent systems, or financial topics, as it centers on signal processing and instrumentation."
+  },
+  {
+    "paper_id": "2511.02842",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper designs an LLM-based chatbot that uses planning and reasoning capabilities to conduct interviews via workflow-based instructions, directly aligning with agent architecture for tool-use orchestration and execution monitoring."
+  },
+  {
+    "paper_id": "2511.02979",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems",
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.7,
+    "rationale": "The taxonomy explicitly mentions RAG and long-term emotional consistency, aligning with memory systems, and discusses functional acting and symbol grounding in embodied agents, which relates to agent architecture and tool-use orchestration."
+  },
+  {
+    "paper_id": "2511.03695",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces a reinforcement learning framework for offline-to-online policy adaptation, which is a general ML methodology not covered by the categories focused on finance, agent architectures, or foundation models."
+  },
+  {
+    "paper_id": "2511.03618",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on formal verification of RL algorithm convergence using theorem provers, which is a theoretical methodology not aligned with the application or system-oriented categories defined."
+  },
+  {
+    "paper_id": "2511.02854",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper introduces a framework for iterative self-refinement in code generation, emphasizing planning/execution loops and self-verification, which are core to agent architecture design."
+  },
+  {
+    "paper_id": "2511.02837",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper's core contribution is an extended reality-based training framework for urban risk, which does not align with the predefined categories focused on AI models, agent systems, or financial methodologies."
+  },
+  {
+    "paper_id": "2511.03548",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on theoretical analysis of stochastic convex optimization, flat minima, and generalization, which does not align with the defined categories centered on agents, trading systems, or foundation models."
+  },
+  {
+    "paper_id": "2511.03661",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on applying standard machine learning techniques for anomaly detection in healthcare IoT security, which does not align with the methodology or domain-specific focus of categories 1-7, such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03631",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on deploying machine learning models for financial prediction in SMEs, which does not align with the defined categories centered on foundation models, agent systems, or specific financial methodologies like quantitative trading or risk management."
+  },
+  {
+    "paper_id": "2511.03710",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper proposes shrinkage baselines for reinforcement learning applied to post-training large reasoning models, aligning with foundation models research in fine-tuning and alignment methodologies."
+  },
+  {
+    "paper_id": "2511.02839",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper evaluates GPT-4o as a tool for educational feedback in radiology, focusing on human-computer interaction and assessment rather than advancing core AI methodologies or systems defined in the categories."
+  },
+  {
+    "paper_id": "2511.03634",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on reimplementing TabPFN, a tabular foundation model, to enhance accessibility and educational use, which directly aligns with research on foundation models as defined by its emphasis on pretraining and scalable adaptation for downstream tasks."
+  },
+  {
+    "paper_id": "2511.03595",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on improving Q-learning with tensor methods for high-dimensional reinforcement learning, which does not align with categories like agent architectures, multi-agent systems, or financial applications, as it centers on algorithmic efficiency in RL rather than the specified strategic areas."
+  },
+  {
+    "paper_id": "2511.03616",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on deep reinforcement learning and imitation learning from observation-only datasets, with no alignment to categories such as foundation models, agent architectures, or financial systems based on the abstract."
+  },
+  {
+    "paper_id": "2511.03527",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper centers on reinforcement learning algorithms and their empirical evaluation in classical control tasks, which does not materially align with the defined categories focused on foundation models, agent architectures, or financial systems."
+  },
+  {
+    "paper_id": "2511.03529",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper focuses on Byzantine-robust federated learning with multiple clients, involving coordination through learnable aggregation weights and robustness to adversarial behavior, which aligns with multi-agent system characteristics."
+  },
+  {
+    "paper_id": "2511.03488",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper presents an attention-based late fusion method for multimodal physiological data in sleep staging, which does not align with the defined categories focused on foundation models, agent systems, or financial applications, as it centers on specialized machine learning for biomedical signal processing without elements of agency, trading, or risk management."
+  },
+  {
+    "paper_id": "2511.03344",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on scalable enumeration algorithms for sparse decision trees and Rashomon sets in machine learning, with no evidence of foundation models, agent systems, or financial applications as defined in the categories."
+  },
+  {
+    "paper_id": "2511.03368",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper proposes a unified market mechanism for data and model trading with multiple interacting agents (sellers, producers, buyers), using Shapley-based allocation and equilibrium pricing, which aligns with coordination and mechanism design in multi-agent systems."
+  },
+  {
+    "paper_id": "2511.03464",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on an interpretable deep generative model for multiomics data integration in bioinformatics, with no alignment to categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03475",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper introduces RAGBoost, a system optimizing retrieval-augmented generation (RAG) through context reuse, directly addressing RAG pipelines and memory architectures for efficient knowledge retrieval and reasoning fidelity."
+  },
+  {
+    "paper_id": "2511.03492",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on theoretical analysis of data curation strategies and scaling laws in general machine learning, without material alignment to categories like Foundation Models (which emphasizes large-scale models) or other domain-specific areas."
+  },
+  {
+    "paper_id": "2511.03285",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on anomaly detection in microservices using graph neural networks and temporal modeling, which does not align with the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03256",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper presents a methodological improvement in entropy minimization for general machine learning tasks, with no evidence of focus on foundation models, agent systems, or financial applications as defined in the categories."
+  },
+  {
+    "paper_id": "2511.03570",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on continued pretraining of a large language model (Gemma 3) for tabular in-context learning, which aligns with research on foundation models as adaptable backbones for diverse tasks."
+  },
+  {
+    "paper_id": "2511.03280",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on a probabilistic algorithm for multi-reference alignment in signal processing and wireless communications, which does not align with the defined categories centered on AI agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.03276",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper examines diffusion language models (DLMs) in pre-training settings, focusing on scaling laws, data efficiency, and performance on benchmarks like HellaSwag and MMLU, which aligns with research on large-scale deep learning models for adaptable backbone use."
+  },
+  {
+    "paper_id": "2511.03241",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on physics-informed neural operators for inverse problems in PDEs, which is a machine learning methodology for scientific computing and does not align with the defined categories centered on AI agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.03473",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper centers on reinforcement learning methodology for exploiting symmetries using kernel-based approaches, which does not materially align with the predefined categories focused on foundation models, agent architectures, or financial systems."
+  },
+  {
+    "paper_id": "2511.03243",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper applies Reinforcement Learning to climate adaptation policy, focusing on normative choices and uncertainty in long-term impacts, which does not materially align with the defined categories such as finance-focused systems or agent architectures."
+  },
+  {
+    "paper_id": "2511.03197",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on statistical downscaling of climate data using a probabilistic U-Net, which is a machine learning methodology applied to atmospheric science and does not align with any categories defined for AI agents, trading, or financial systems."
+  },
+  {
+    "paper_id": "2511.03238",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper applies reinforcement learning to climate adaptation planning for urban flooding, focusing on quality of life, which does not align with the defined categories that emphasize foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03196",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper proposes a copula-based method for multimodal representation alignment in healthcare data, which is a general machine learning technique not materially aligned with the specific categories like foundation models, agent systems, or financial domains."
+  },
+  {
+    "paper_id": "2511.03187",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on unsupervised skill discovery in reinforcement learning for robotics, which does not align with the methodology or system design of any predefined category, such as foundation models, agent architectures, or financial systems."
+  },
+  {
+    "paper_id": "2511.03168",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper presents a deep learning method for dynamic causal discovery in non-linear temporal systems, focusing on scalable estimation of evolving cause-effect relationships, which does not materially align with the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03110",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on a general machine learning method for gradient estimation without backpropagation, which does not align with the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03239",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on a feedback-control framework for efficient dataset collection in data-centric AI, which does not materially align with the defined categories such as agent systems or financial applications, as it centers on general data management methodology."
+  },
+  {
+    "paper_id": "2511.03279",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper applies deep reinforcement learning for adaptive rate limiting in microservices, which is a general machine learning application not materially aligned with the specific methodologies or domains of the defined categories, such as agent architectures or financial systems."
+  },
+  {
+    "paper_id": "2511.03148",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on a general machine learning methodology for test-time domain adaptation, which does not align with the predefined categories that are oriented towards agents, trading, risk management, or foundation models."
+  },
+  {
+    "paper_id": "2511.03068",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on graph neural network expressivity and a new graph similarity metric, which does not align with the provided categories centered on agents, financial systems, or large-scale foundation models."
+  },
+  {
+    "paper_id": "2511.03107",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on improving text classification efficiency using modified TF-IDF and classical ML methods, which does not align with the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03074",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on robust online learning algorithms for ranking using cascading bandits, which does not align with categories like foundation models, agent systems, or financial applications, as it centers on corruption-resistant bandit methodologies without specific ties to those domains."
+  },
+  {
+    "paper_id": "2511.03128",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces frameworks that leverage collaborative LLMs to generate adversarial examples, emphasizing coordination and collective intelligence in multi-agent interactions."
+  },
+  {
+    "paper_id": "2511.03363",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper proposes a modular pipeline for intention recognition and query routing in agentic AI systems, aligning with agent architecture, and heavily utilizes large language models and pre-trained Sentence-T5 for synthetic data generation and embeddings, reflecting foundation models methodology."
+  },
+  {
+    "paper_id": "2511.03015",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on a Bayesian Sample Inference method for graph generation, which is a machine learning methodology for discrete structures and does not align with the defined categories centered on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03032",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on a distributional optimization algorithm for scientific design using decomposability and graph message-passing, which does not align with the defined categories centered on AI agents, trading, or risk management."
+  },
+  {
+    "paper_id": "2511.03012",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on neural network-based design of metamaterials for engineering applications, which does not align with any defined categories such as foundation models, agent systems, or financial domains."
+  },
+  {
+    "paper_id": "2511.03060",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper presents a theoretical geometric analysis of Transformer architectures, focusing on curvature and analogies to General Relativity, which does not materially align with any of the application-focused categories such as Foundation Models or Agent systems."
+  },
+  {
+    "paper_id": "2511.03046",
+    "category": "Risk Management & Pricing",
+    "categories": [
+      "Risk Management & Pricing"
+    ],
+    "confidence": 0.8,
+    "rationale": "The paper focuses on forecasting realized volatility using implied volatility surfaces from options data, which is central to derivatives pricing and risk modeling, as indicated by the use of stochastic volatility features and financial forecasting objectives."
+  },
+  {
+    "paper_id": "2511.02957",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper applies graph neural networks and reinforcement learning to pavement health monitoring and maintenance optimization, which does not materially align with the defined categories focused on foundation models, agent systems, or financial topics."
+  },
+  {
+    "paper_id": "2511.03708",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on theoretical analysis of batched contextual bandits and regret minimization under unknown parameters, which is a core statistics and machine learning topic but does not align with the defined categories such as foundation models, agent systems, trading, or risk management."
+  },
+  {
+    "paper_id": "2511.03636",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on cosmological simulations and statistical inference methods for large-scale structures, with no material alignment to the defined categories such as AI agents, financial systems, or foundation models."
+  },
+  {
+    "paper_id": "2511.03653",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on computational complexity and property testing of Boolean functions, with extensions to distribution testing, and does not align with the predefined categories related to foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03047",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Foundation Models"
+    ],
+    "confidence": 0.7,
+    "rationale": "The paper introduces unsupervised metrics for evaluating multi-turn objective-driven interactions involving AI agents, aligning with monitoring and observability in agent runtime systems, and utilizes fine-tuned LLMs for adaptation to distributional shifts."
+  },
+  {
+    "paper_id": "2511.02894",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper explicitly uses large language models (LLMs) with zero-shot and few-shot learning for data poisoning detection and sanitization, aligning with the adaptation of foundation models for diverse downstream tasks."
+  },
+  {
+    "paper_id": "2511.03620",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper develops a JAX-based library for click models in information retrieval, focusing on gradient-based optimization and modular design, which does not align with the defined categories like foundation models, agent systems, or financial topics."
+  },
+  {
+    "paper_id": "2511.03632",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper applies Transformer-based sparse attention to beamforming in wireless communications, which is a domain-specific methodology not covered by the defined categories like foundation models or agent systems."
+  },
+  {
+    "paper_id": "2511.03443",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper presents a general optimization algorithm for problems with nonnegative and orthogonal constraints, focusing on methodological advances in optimization rather than applications aligned with the defined categories such as AI agents, trading, or risk management."
+  },
+  {
+    "paper_id": "2511.03635",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.7,
+    "rationale": "The paper leverages large language models (LLMs) for zero-shot stance detection and focuses on interpretability, aligning with Foundation Models research that uses LLMs as adaptable backbones for downstream tasks."
+  },
+  {
+    "paper_id": "2511.03606",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on statistical concentration inequalities for vector-valued processes, a methodological contribution in statistics and machine learning that does not align with the defined categories such as agent systems or financial applications."
+  },
+  {
+    "paper_id": "2511.02966",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on personalized alignment for generative models using bandit algorithms at inference time, which directly relates to alignment and safety for general-purpose foundation models as defined in the category."
+  },
+  {
+    "paper_id": "2511.03554",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on theoretical analysis of cross-validation error, including decomposition, stability notions, and minimax bounds, which is a core methodological topic in statistics and machine learning that does not align with the application-specific categories provided."
+  },
+  {
+    "paper_id": "2511.03482",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on system identification and control of an autonomous surface vehicle using data-driven reduced-order models, which does not align with any predefined categories centered on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03693",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on federated learning and multi-scale deep learning for medical image grading, which is a distributed ML methodology not covered by categories emphasizing agents, finance, or foundation models."
+  },
+  {
+    "paper_id": "2511.03216",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper describes an R package for robust kernel unsupervised methods, focusing on covariance operators and outlier detection, which does not materially align with the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03425",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on symbolic music performance using conditional flow matching for generation and emotion control, which does not align with the provided categories centered on agents, trading, or risk management."
+  },
+  {
+    "paper_id": "2511.03242",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper applies machine learning to ecological data for biodiversity and conservation planning, which does not align with the predefined categories focused on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03247",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper analyzes safety vulnerabilities and alignment in open-weight large language models, directly addressing safety and security for general-purpose use as defined in Foundation Models."
+  },
+  {
+    "paper_id": "2511.03498",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on dataset creation and fine-tuning a T5-based translation model for technical domain Bangla-English translation, which does not align with the key indicators of categories like Foundation Models or Agent Systems, as it is an applied NLP effort without core advancements in those areas."
+  },
+  {
+    "paper_id": "2511.03193",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on theoretical and statistical properties of rectified flow for transport maps, which is a methodological contribution in statistics and machine learning that does not align with the defined categories centered on foundation models, agent architectures, or financial systems."
+  },
+  {
+    "paper_id": "2511.03320",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on quantum machine learning and data dimensionality reduction methodologies, which do not align with the defined categories such as foundation models, agent systems, or financial applications, as evidenced by its analysis of QML performance metrics and data reduction techniques."
+  },
+  {
+    "paper_id": "2511.03147",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on neural SDFs and loss scheduling for CAD model reconstruction, which is a graphics and vision methodology not aligned with foundation models, agent systems, or financial categories."
+  },
+  {
+    "paper_id": "2511.03182",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper empirically studies model editing methods for code LLMs, which are foundation models, focusing on lightweight updates to adapt to changes without full retraining, aligning with key indicators like pretraining-finetuning and alignment for general-purpose use."
+  },
+  {
+    "paper_id": "2511.03125",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on Bayesian optimization and knowledge transfer methodologies in machine learning, which does not align with the predefined categories that emphasize AI agents, financial systems, or foundation models."
+  },
+  {
+    "paper_id": "2511.03053",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on uncertainty evaluation in mobile laser scanning point clouds using machine learning for geometric feature extraction, which does not align with any predefined categories related to AI agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.03154",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper develops a statistical distribution for traffic headway modeling, which is unrelated to AI agents, foundation models, or financial systems defined in the categories."
+  },
+  {
+    "paper_id": "2511.03084",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper develops an interpretable framework for schizophrenia diagnosis using speech processing and machine learning, which does not align with categories focused on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03080",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper centers on using Large Language Models (LLMs) in a prompt-based, few-shot approach for text normalization, directly aligning with the application of foundation models as adaptable backbones for downstream tasks."
+  },
+  {
+    "paper_id": "2511.03181",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper designs a robotic agent with a planner-controller loop, using an LLM for high-level task planning and a transformer-based policy for low-level execution, focusing on sub-task orchestration and force control in long-horizon manipulation."
+  },
+  {
+    "paper_id": "2511.03020",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper applies statistical modeling and ensemble machine learning for cybersecurity in e-commerce, which does not align with the defined categories focused on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03052",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on theoretical optimization algorithms for min-max problems and variational inequalities, which does not align with the defined categories centered on AI agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.03050",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper presents a theoretical analysis of Sobolev training and generalization error for random feature models, which does not materially align with any predefined categories focused on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03000",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper develops a theoretical framework for comparing clustering similarity measures in unsupervised learning, which does not align with the predefined categories focused on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03202",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on theoretical analysis of memorization in diffusion models and a pruning-based mitigation method, which does not align with categories like Foundation Models (as it lacks emphasis on domain-general backbones or scaling laws) or other defined areas such as agents or financial systems."
+  },
+  {
+    "paper_id": "2511.02992",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on neural architecture search for efficient hybrid CNN-ViT models in computer vision for tinyML deployment, which does not align with any predefined categories centered on agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.02850",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on deep learning-based ECG feature extraction for medical diagnosis, which does not align with any defined categories related to AI agents, trading, or finance, as it is centered on signal processing and interpretable machine learning in healthcare."
+  },
+  {
+    "paper_id": "2511.02986",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper introduces a latent diffusion model for single-cell gene expression generation, which is a methodological advance in machine learning for genomics and does not align with the defined categories focused on AI agents, trading, or foundation models."
+  },
+  {
+    "paper_id": "2511.03034",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on data-efficient adaptation and evaluation methods for aspect-based sentiment analysis using small language models, which does not align with the defined categories centered on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.02722",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on computational neuroscience, using fMRI data and recurrent neural networks to model brain hierarchies and neural stability in schizophrenia, which does not align with the defined categories centered on AI agents, trading, or risk management."
+  },
+  {
+    "paper_id": "2511.03699",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper centrally involves probing Large Language Models (LLMs) for psychological traits like conspiracy mindset using validated surveys and conditioning strategies, directly addressing alignment and safety concerns in foundation models."
+  },
+  {
+    "paper_id": "2511.02958",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on detecting machine-translated text using internal representations of a multilingual MT model, which is an application-specific method in NLP and does not align with the predefined categories such as foundation models, agent systems, or financial topics."
+  },
+  {
+    "paper_id": "2511.03610",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper is a systematic review of relation extraction in NLP, focusing on task advancements with Transformers, which does not align with the provided categories centered on AI agents, financial systems, or foundation model development."
+  },
+  {
+    "paper_id": "2511.03563",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models",
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper involves fine-tuning LLMs, which is core to Foundation Models, and integrates RAG for knowledge retrieval, aligning with Agent Memory & Knowledge Systems."
+  },
+  {
+    "paper_id": "2509.17994",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on computational complexity, simulator constructions, and indistinguishability proofs, which do not align with any predefined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03547",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper's core contribution is neural network architecture design with stack augmentations for syntactic generalization in language acquisition, which does not align with categories like foundation models or agent systems focused on large-scale training, tool-use, or financial applications."
+  },
+  {
+    "paper_id": "2511.03506",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on evaluating hallucinations in memory systems for AI agents, introducing a benchmark for memory extraction, updating, and question answering, which directly aligns with memory architectures and reliability in agent knowledge systems."
+  },
+  {
+    "paper_id": "2511.03508",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper evaluates large language models (LLMs) like GPT-5 on multi-turn instruction following, which directly relates to research on foundation models' alignment, safety, and general-purpose capabilities as defined in the category."
+  },
+  {
+    "paper_id": "2511.03383",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on optimizing tokenization via asymmetric Byte Pair Encoding for machine translation, which is a preprocessing methodology that does not materially align with categories like Foundation Models or agent systems, as it lacks emphasis on large-scale models, agent architectures, or financial applications."
+  },
+  {
+    "paper_id": "2511.03408",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on training large language models (LLMs) to internalize reasoning through a hybrid approach, which aligns with Foundation Models' emphasis on enhancing model capabilities via pretraining and fine-tuning for efficient downstream task performance."
+  },
+  {
+    "paper_id": "2511.03370",
+    "category": "Agent Architecture & Tool-Use Orchestration",
+    "categories": [
+      "Agent Architecture & Tool-Use Orchestration",
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper introduces a reasoning system for emotional state tracking and planning in negotiation agents, aligning with agent architecture, and it evaluates through agent-to-agent simulations involving coordination and adversarial strategies."
+  },
+  {
+    "paper_id": "2511.03372",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on a symbolic-logic-controlled data augmentation method for logical reasoning in NLP, which does not align with the defined categories centered on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03369",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper centers on safety-aligned large language models (LLMs) and their hidden biases, directly addressing alignment and safety evaluation through activation steering, which aligns with key indicators for Foundation Models."
+  },
+  {
+    "paper_id": "2511.03270",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper introduces a continual pre-training method for large language models with width upscaling, directly addressing scaling laws and adaptation while preserving base model functionality, which aligns with core foundation models research."
+  },
+  {
+    "paper_id": "2511.03407",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on finetuning small language models for relation extraction in semantic web contexts, employing data augmentation and sampling strategies, which does not align with the defined categories centered on foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03180",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on evaluating the alignment and safety of multilingual Large Language Models (LLMs) with cultural ethical norms, which directly relates to the Foundation Models category's emphasis on alignment for general-purpose use."
+  },
+  {
+    "paper_id": "2511.03228",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on cross-lingual information retrieval and document set retrieval methodologies, which do not align with the defined categories such as foundation models, agent systems, or financial applications."
+  },
+  {
+    "paper_id": "2511.03237",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper centers on tokenizer design for multilingual Large Language Models (LLMs), directly addressing core aspects of foundation models such as pretraining efficiency, inference performance, and scalability across languages, as shown by its focus on fertility scores and throughput improvements."
+  },
+  {
+    "paper_id": "2511.03466",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on fine-tuning small language models for relation extraction and knowledge base refinement using SHACL shapes, with no evidence of agent systems, foundation models, or financial applications."
+  },
+  {
+    "paper_id": "2511.03089",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on applying computational linguistic measures like surprisal and coherence to analyze language in schizophrenia, which does not align with the methodology or system design of categories such as foundation models, agent architectures, or financial systems."
+  },
+  {
+    "paper_id": "2511.03166",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper empirically evaluates uncertainty estimation methods for Large Language Models (LLMs) in QA tasks, directly addressing reliability and safety aspects central to Foundation Models research."
+  },
+  {
+    "paper_id": "2511.02919",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces a dynamic cache mechanism for RAG in agents, focusing on constructing and maintaining compact knowledge corpora, which directly aligns with memory architectures and retrieval-augmented generation in agent knowledge systems."
+  },
+  {
+    "paper_id": "2511.03378",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 1.0,
+    "rationale": "The paper focuses on text-based measurement of knowledge diffusion in social science domains using NLP techniques, which does not align with the defined categories related to AI models, agents, or financial systems."
+  },
+  {
+    "paper_id": "2511.03410",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper proposes QuestionRAG, which enriches input with external knowledge (e.g., search results, related entities) and uses retrieval-augmented generation (RAG) techniques to address misinterpretation, directly aligning with the RAG pipelines and knowledge augmentation focus of this category."
+  },
+  {
+    "paper_id": "2511.03005",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper introduces a pipeline for knowledge distillation and fine-tuning of language models, directly involving pretraining-finetuning methodologies and improving model performance for downstream tasks, which aligns with the Foundation Models category."
+  },
+  {
+    "paper_id": "2511.03667",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on methodological advances in hierarchical Bayesian modeling and reparameterization using Normalizing Flows for astrophysical data analysis, which does not align with the defined categories centered on AI agents, foundation models, or financial systems."
+  },
+  {
+    "paper_id": "2511.03146",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on introducing an evaluation benchmark for multimodal models' cognitive capacities, which aligns with benchmarking methodology rather than research on foundation models, agent systems, or financial applications defined in the categories."
+  },
+  {
+    "paper_id": "2511.03087",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper introduces a variational inequality estimator for generalized linear models, focusing on statistical methodology and optimization improvements, with no alignment to AI agents, financial systems, or large-scale models defined in the categories."
+  },
+  {
+    "paper_id": "2511.03048",
+    "category": "Agent Memory & Knowledge Systems",
+    "categories": [
+      "Agent Memory & Knowledge Systems"
+    ],
+    "confidence": 0.7,
+    "rationale": "The paper centers on a system using retrieval-augmented generation (RAG) for evidence retrieval in bias assessment, directly aligning with key indicators of Agent Memory & Knowledge Systems such as RAG pipelines and evidence-grounded reasoning."
+  },
+  {
+    "paper_id": "2511.03348",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on learning communication protocols and coordination among multiple agents in multi-task deep reinforcement learning, directly aligning with the category's emphasis on interaction, communication protocols, and multi-agent coordination."
+  },
+  {
+    "paper_id": "2511.03551",
+    "category": "Risk Management & Pricing",
+    "categories": [
+      "Risk Management & Pricing"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on Value-at-Risk (VaR) and Expected Shortfall (ES) under Solvency II, proposing PELVE-inspired methods for multiple insurers and analyzing risk measures, which directly aligns with modeling financial risks and regulatory risk management."
+  },
+  {
+    "paper_id": "2511.03286",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper proposes a formal framework using multiagent transition systems and protocols to classify global platforms, focusing on coordination and communication among agents through concepts like essential agents."
+  },
+  {
+    "paper_id": "2511.03622",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on cooperative search algorithms for multiple robots, involving coordination and collective behavior in geometric domains, as evidenced by the development of methods like cooperative random search and evaluation of trade-offs between robot count and search time."
+  },
+  {
+    "paper_id": "2511.03001",
+    "category": "others",
+    "categories": [
+      "others"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on developing an evaluation framework (LEGO-Eval) with tool augmentation for assessing 3D scene synthesis, which does not align with the defined categories such as agent systems or foundation models, as the core contribution is methodological evaluation rather than agent design or model development."
+  },
+  {
+    "paper_id": "2511.02841",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper presents a conceptual framework and prototypical multi-agent system for trust establishment through decentralized identifiers and verifiable credentials, emphasizing coordination and communication protocols in agent interactions."
+  },
+  {
+    "paper_id": "2511.03358",
+    "category": "Risk Management & Pricing",
+    "categories": [
+      "Risk Management & Pricing",
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.85,
+    "rationale": "The paper models systemic risk using stochastic differential equations with interacting agents, which aligns with risk management methodologies and multi-agent system interactions in collective behavior."
+  },
+  {
+    "paper_id": "2511.03031",
+    "category": "Risk Management & Pricing",
+    "categories": [
+      "Risk Management & Pricing",
+      "Portfolio Management"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on modeling financial risks and deriving optimal strategies for consumption, investment, and reinsurance under model uncertainty using stochastic control methods, aligning with Risk Management & Pricing, and the investment component relates to Portfolio Management."
+  },
+  {
+    "paper_id": "2511.03271",
+    "category": "Foundation Models",
+    "categories": [
+      "Foundation Models"
+    ],
+    "confidence": 0.9,
+    "rationale": "The paper focuses on jailbreak attacks to identify vulnerabilities in LLMs, which directly contributes to safety and alignment research for foundation models, as evidenced by its empirical evaluations on multiple LLMs and emphasis on reducing red teaming overhead."
+  },
+  {
+    "paper_id": "2511.03094",
+    "category": "Multi-Agent Systems & Collective Intelligence",
+    "categories": [
+      "Multi-Agent Systems & Collective Intelligence"
+    ],
+    "confidence": 0.95,
+    "rationale": "The paper focuses on multi-agent LLM planning with coordination mechanisms like validation, versioned logs, and localized repair, directly evidenced by its evaluation on job-shop scheduling and improvements in multi-agent performance."
+  }
+]
